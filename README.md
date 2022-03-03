@@ -1,7 +1,7 @@
 ### Hi Guys 👋
 - 🌎 I'm from Brazil 
 - 🌱 Studying flutter
-- 📫 Student at IFPB, Systems Analysis and Development 
+-📚 Student at IFPB, Systems Analysis and Development 
 
   <div align="center">
     <a href="https://github.com/kia735">

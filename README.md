@@ -21,5 +21,8 @@
   
 
 ### Contact:
-  <a href="https://www.linkedin.com/in/ezequias-soares-2a4904216/" target="_blank">
-    <img height= "30"src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keilla-vitória-felipe-bezerra-785437221/" /></a>
+ <a href="https://www.linkedin.com/in/ezequias-soares-2a4904216/" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link"/>
+  </a>
+  
+  

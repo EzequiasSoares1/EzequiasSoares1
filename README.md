@@ -21,8 +21,15 @@
   </br>
 
 ### Contact:
+
+  
+  <div>
+  <a href = "mailto:ezequiasoliver2017@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/ezequias-soares-2a4904216/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link"/>
   </a>
+  <a href="https://www.instagram.com/ezequias_soares01/"target="_blank"><img 
+  src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"></a>
+</div>
   
   

@@ -1,6 +1,6 @@
 ### Hi Guys 👋
 - 🌎 I'm from Brazil 
-- 🌱 Studying flutter
+- 🌱 Studying React
 - 📚 Student at IFPB, Systems Analysis and Development 
 
 ### Languages and tools:
